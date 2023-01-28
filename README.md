@@ -12,8 +12,8 @@
 
 # 🍃 Flutter Specific Skills:
 **State Management (BLOC, Riverpod, GetX)** | **Google Maps** | Firebase / AWS Amplify Integration,
-
 <br>
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=wagle04&theme=city_light&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=wagle04&theme=city_light&hide_border=false)<br/>
