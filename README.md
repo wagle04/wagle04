@@ -11,7 +11,7 @@
 <br>
 
 # 🍃 Flutter Specific Skills:
-**State Management (BLOC, Riverpod, GetX)&#8197; &emsp14;|   Google Maps   |   Firebase / AWS Amplify Integration   |   Pixel-perfect UI design   |   Permissions   |   CI/CD   |   Codemagic   |   Flutter Web   |   Local Storage and Caching   |   Authentication   |   Push Notifications   |   Video and Audio Player   |   Deeplinking   |   Animation   |   RESTful API Integration   |   GraphQL   |   Analytics and Deployment**
+**State Management (BLOC, Riverpod, GetX)&#8198;|   Google Maps&#8198;   |   Firebase / AWS Amplify Integration&#8198;   |   Pixel-perfect UI design &#8198;  |   Permissions &#8198;  |   CI/CD &#8198;  |   Codemagic &#8198;  |   Flutter Web&#8198;   |   Local Storage and Caching&#8198;   |   Authentication   |   Push Notifications   |   Video and Audio Player   |   Deeplinking   |   Animation   |   RESTful API Integration   |   GraphQL   |   Analytics and Deployment**
 <br>
 
 # 📊 GitHub Stats:
