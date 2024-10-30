@@ -1,4 +1,4 @@
-# 💫 About Me:
+<!---# 💫 About Me:
 🔭 I’m currently working on being a better developer<br>🌱 I’m currently learning native android and iOS application development<br>💬 Ask me about Football, the real one<br>⚡ Fun fact | let it be mystery
 <br>
 
@@ -37,3 +37,4 @@
 [![](https://visitcount.itsvg.in/api?id=wagle04&icon=4&color=9)](https://visitcount.itsvg.in)
        
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+-->
